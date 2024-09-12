@@ -1,0 +1,91 @@
+body {
+    background: white
+  }
+
+  main {
+    position: relative;
+    width: 700px;
+    left: 50%;
+    transform: translate(-50%);
+    background: #0000ff;
+    font-size: 20px;
+    font-family: Arial;
+    color: white
+  }
+
+  img {
+    position: absolute;
+    right: 5%;
+    top: 93%
+  }
+
+  h1 {
+    text-indent: 20px;
+  }
+
+  h2 {
+    font-family: Arial;
+    font-size: bold;
+    color: white;
+    word-spacing: 1.2em;
+    text-indent: 20px;
+    line-height: 1px;
+  }
+
+  h3 {
+    text-indent: 20px;
+    line-height: 1px
+  }
+
+  .em-wide {
+    letter-spacing: 0.4em;
+  }
+
+  ul {
+    line-height: 33px
+  }
+
+
+  header, footer {
+    margin: 0px;
+    background: #008000;
+    height: 50px;
+    width: 100%;
+    font-size: 16px;
+    font-family: Arial;
+    color: white;
+    line-height: 50px;
+    text-align: center
+  }
+
+  header {
+    margin: -27px;
+    margin-top: -8px;
+  }
+
+  footer {
+    margin: -20px;
+    margin-top: -20px
+  }
+
+  .square {
+    float: left;
+    margin: 20px;
+    margin-top: 10px;
+    height: 120px;
+    width: 120px;
+    background: transparant;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 5px solid #ffffff;
+  }
+
+  table {
+    position: absolute;
+    top: 72%;
+    right: 5%;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    color: white
+  }
